@@ -1,0 +1,29 @@
+time_key,clock_hour,time_label,peak_flag,day_part,is_after_midnight
+0,0,00:00,Off-Peak,Night,0
+1,1,01:00,Off-Peak,Night,0
+2,2,02:00,Off-Peak,Night,0
+3,3,03:00,Off-Peak,Night,0
+4,4,04:00,Off-Peak,Night,0
+5,5,05:00,Off-Peak,Night,0
+6,6,06:00,Off-Peak,Morning,0
+7,7,07:00,Off-Peak,Morning,0
+8,8,08:00,Peak,Morning,0
+9,9,09:00,Peak,Morning,0
+10,10,10:00,Peak,Morning,0
+11,11,11:00,Off-Peak,Morning,0
+12,12,12:00,Off-Peak,Afternoon,0
+13,13,13:00,Off-Peak,Afternoon,0
+14,14,14:00,Off-Peak,Afternoon,0
+15,15,15:00,Off-Peak,Afternoon,0
+16,16,16:00,Off-Peak,Afternoon,0
+17,17,17:00,Peak,Evening,0
+18,18,18:00,Peak,Evening,0
+19,19,19:00,Peak,Evening,0
+20,20,20:00,Off-Peak,Evening,0
+21,21,21:00,Off-Peak,Night,0
+22,22,22:00,Off-Peak,Night,0
+23,23,23:00,Off-Peak,Night,0
+24,0,00:00 (+1 day),Off-Peak,Night,1
+25,1,01:00 (+1 day),Off-Peak,Night,1
+26,2,02:00 (+1 day),Off-Peak,Night,1
+27,3,03:00 (+1 day),Off-Peak,Night,1

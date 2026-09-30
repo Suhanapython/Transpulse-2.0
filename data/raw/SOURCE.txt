@@ -1,0 +1,8 @@
+Dataset : PMPML GTFS (static schedule) - UNMODIFIED zip, exactly as published
+Source  : https://github.com/croyla/pmpml-gtfs  (file: pmpml_gtfs.zip)
+Commit  : 6e64e702ca5f354dd81b0631004e9191dfff57de (9 Sep 2026)
+Feed    : generated 6 Sep 2026 from the PMPML (Apli-PMPML / Chartr) API, valid 20260906 - 20270305
+Content : routes.txt 617 | stops.txt 6713 | trips.txt 15236 | stop_times.txt 637653 | shapes.txt 254422 rows
+SHA-256 : 6c848a538c3c83c82eeda0974d318e4f45ae5f01d63f9854b5f2c629b231ba40
+Downloaded: 30 Sep 2026
+Note    : Third-party conversion of PMPML API data to GTFS; contains schedules only (no delay, passengers, fuel).

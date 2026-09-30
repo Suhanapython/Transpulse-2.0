@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../powerbi"
+		},
+		{
+			"path": "../presentation"
+		},
+		{
+			"path": "../sql"
+		},
+		{
+			"path": "../src"
+		},
+		{
+			"path": "../warehouse"
+		}
+	]
+}
