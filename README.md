@@ -1,6 +1,6 @@
 # TransPulse - Business Intelligence Platform for Smart Public Transportation Analytics
 G H Raisoni College of Engineering & Management, Pune - B.Tech CSE (Data Science) - Business Intelligence, TAE 2
-Team: Suhana Shivpurkar (P64) and <partner name, roll no.> - Guide: Prof. Chinmay Mukim
+Team: Suhana Shivpurkar (P64) and Mayur Chandanshiv(P29) - Guide: Prof. Chinmay Mukim
 
 ## 1. Overview
 TransPulse integrates raw public-transport data for Pune (PMPML) through a Python ETL pipeline into a star-schema
